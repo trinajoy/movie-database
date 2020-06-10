@@ -1,6 +1,6 @@
 ## Making API reuests
 
-Use OMDB API to search for movie titles. 
+Use OMDb API to search for movie titles. 
 Using Javascript, NodeJS, Express
 
 

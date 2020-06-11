@@ -1,4 +1,4 @@
-## Making API reuests
+## Making API requests
 
 Use OMDb API to search for movie titles. 
 Using Javascript, NodeJS, Express
